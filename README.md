@@ -16,13 +16,15 @@ You'll also practice using `Git` and `GitHub`. These tools are essential for:
 - collaboration between developers;
 - incremental and iterative improvement of the code base.
 
-## Table of contents
+<h2>Table of contents</h2>
 
-<!-- no toc -->
-- [Learning outcomes](#learning-outcomes)
 - [Learning advice](#learning-advice)
-- [Tasks overview](#tasks-overview)
+- [Learning outcomes](#learning-outcomes)
 - [Tasks](#tasks)
+  - [Setup (~30 min)](#setup-30-min)
+  - [Required tasks (~2 hours)](#required-tasks-2-hours)
+  - [Optional tasks](#optional-tasks)
+- [Additional Resources on `Git`](#additional-resources-on-git)
 
 ## Learning advice
 
