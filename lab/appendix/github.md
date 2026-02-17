@@ -42,7 +42,7 @@ The `GitHub` site has this [URL](./web-development.md#url): <https://github.com>
 
 A `GitHub` username is a unique identifier of a user or an organization on [the `GitHub` site](#the-github-site).
 
-Example of a username: `johndoe`.
+Example of a username: `haskell`.
 
 Note that this username doesn't include `@`.
 
