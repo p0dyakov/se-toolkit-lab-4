@@ -68,7 +68,7 @@ Examples: `localhost`, `my-server`, `vm.innopolis.university`.
 
 It resolves to the loopback [IP address](#ip-address) `127.0.0.1`.
 
-Connections to `localhost` never leave the [host](#host) — they are handled entirely within the [operating system](./operating-system.md).
+Connections to `localhost` never leave the host — they are handled entirely within the [operating system](./operating-system.md).
 
 ### Remote host
 
