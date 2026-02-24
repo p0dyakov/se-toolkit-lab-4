@@ -41,7 +41,7 @@ Your job is to enable the endpoint, discover the bugs, and fix them.
 
 ### 1.1. Follow the `Git workflow`
 
-Follow the [`Git workflow`](../git-workflow.md) to complete this task.
+Follow the [`Git workflow`](../../../wiki/git-workflow.md) to complete this task.
 
 ### 1.2. Create a `Lab Task` issue
 
@@ -181,7 +181,7 @@ The field name in the response schema (`InteractionModel`) must match the field 
 
 ### 1.12. Commit Bug 1 fix
 
-1. [Commit](../git-workflow.md#commit) your changes.
+1. [Commit](../../../wiki/git-workflow.md#commit) your changes.
 
    Use the following commit message:
 
@@ -250,7 +250,7 @@ The query parameter is called `item_id`, so the filter should compare `i.item_id
 
 ### 1.17. Commit Bug 2 fix
 
-1. [Commit](../git-workflow.md#commit) your changes.
+1. [Commit](../../../wiki/git-workflow.md#commit) your changes.
 
    Use the following commit message:
 
@@ -263,8 +263,8 @@ The query parameter is called `item_id`, so the filter should compare `i.item_id
 
 ### 1.18. Finish the task
 
-1. [Create a PR](../git-workflow.md#create-a-pr-to-the-main-branch-in-your-fork) with your fixes.
-2. [Get a PR review](../git-workflow.md#get-a-pr-review) and complete the subsequent steps in the `Git workflow`.
+1. [Create a PR](../../../wiki/git-workflow.md#create-a-pr-to-the-main-branch-in-your-fork) with your fixes.
+2. [Get a PR review](../../../wiki/git-workflow.md#get-a-pr-review) and complete the subsequent steps in the `Git workflow`.
 
 ---
 

@@ -38,7 +38,7 @@ You will implement the endpoint layer by studying the `items` reference implemen
 
 ### 0. Follow the `Git workflow`
 
-Follow the [`Git workflow`](../git-workflow.md) to complete this task.
+Follow the [`Git workflow`](../../../wiki/git-workflow.md) to complete this task.
 
 ### 1. Create a `Lab Task` issue
 
@@ -160,7 +160,7 @@ async def get_learners(
 
 #### 3.6. Commit Part A
 
-1. [Commit your change using the `Source Control`](../git-workflow.md#commit).
+1. [Commit your change using the `Source Control`](../../../wiki/git-workflow.md#commit).
 
    Use the following commit message:
 
@@ -214,7 +214,7 @@ async def post_learner(
 
 #### 4.3. Commit Part B
 
-1. [Commit your change using the `Source Control`](../git-workflow.md#commit).
+1. [Commit your change using the `Source Control`](../../../wiki/git-workflow.md#commit).
 
    Use the following commit message:
 
@@ -227,8 +227,8 @@ async def post_learner(
 
 ### 5. Finish the task
 
-1. [Create a PR](../git-workflow.md#create-a-pr-to-the-main-branch-in-your-fork) with your implementation.
-2. [Get a PR review](../git-workflow.md#get-a-pr-review) and complete the subsequent steps in the `Git workflow`.
+1. [Create a PR](../../../wiki/git-workflow.md#create-a-pr-to-the-main-branch-in-your-fork) with your implementation.
+2. [Get a PR review](../../../wiki/git-workflow.md#get-a-pr-review) and complete the subsequent steps in the `Git workflow`.
 
 ---
 

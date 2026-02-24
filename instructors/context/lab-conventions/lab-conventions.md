@@ -28,7 +28,7 @@
   - [4.20. Placeholders in docs](#420-placeholders-in-docs)
 - [5. `lab/setup.md` — Lab setup](#5-labsetupmd--lab-setup)
   - [Key rules for setup](#key-rules-for-setup)
-- [6. `lab/tasks/git-workflow.md` — Reusable Git workflow](#6-labtasksgit-workflowmd--reusable-git-workflow)
+- [6. `wiki/git-workflow.md` — Reusable Git workflow](#6-wikigit-workflowmd--reusable-git-workflow)
   - [Key rules for git workflow](#key-rules-for-git-workflow)
 - [7. Appendix documents (`lab/appendix/`)](#7-appendix-documents-labappendix)
   - [Purpose](#purpose)
@@ -573,7 +573,7 @@ These enhancements can make your life easier:
 
 ----
 
-## 6. `lab/tasks/git-workflow.md` — Reusable Git workflow
+## 6. `wiki/git-workflow.md` — Reusable Git workflow
 
 This file describes the workflow students follow for every task that produces code changes:
 

@@ -48,7 +48,7 @@
 
 Required and optional steps to get the environment ready: fork, clone, install tools, start services.
 
-### [Git workflow](lab/tasks/git-workflow.md)
+### [Git workflow](./wiki/git-workflow.md)
 
 Branching, committing, opening PRs, and the review process used throughout the lab.
 
