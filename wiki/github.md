@@ -132,6 +132,8 @@ We'll refer to this URL as `<your-fork-url>`.
 
 Find [`<your-github-username>`](#your-github-username) if you don't know it.
 
+See also [`<repo-name>`](#repo-name).
+
 ### Go to your fork
 
 1. Open [`<your-fork-url>`](#your-fork-url) in a browser.
