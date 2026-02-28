@@ -23,7 +23,7 @@
 
 ## What is `SSH`
 
-`Secure Shell` (`SSH`) is a protocol used to securely connect to remote machines.
+`SSH` (`Secure Shell`) is a protocol used to securely connect to remote machines.
 
 You can use it to connect to [your virtual machine](./vm.md#your-vm).
 
