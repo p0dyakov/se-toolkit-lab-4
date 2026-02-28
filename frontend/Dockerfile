@@ -1,5 +1,5 @@
 # Stage 1: Build the React frontend
-FROM node:22-alpine AS builder
+FROM harbor.pg.innopolis.university/docker-hub-cache/node:22-alpine AS builder
 
 WORKDIR /app
 
