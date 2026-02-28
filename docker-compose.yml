@@ -1,5 +1,6 @@
 services:
   app:
+    build: .
     image: ${DOCKERHUB_USERNAME:-p0dyakov}/se-toolkit-lab:${IMAGE_TAG:-latest}
     restart: unless-stopped
     ports:
@@ -66,6 +67,8 @@ services:
         condition: service_healthy
 
   caddy:
+    build:
+      context: ./frontend
     image: ${DOCKERHUB_USERNAME:-p0dyakov}/se-toolkit-caddy:${IMAGE_TAG:-latest}
     depends_on:
       - app
